@@ -3,11 +3,6 @@ import re
 import csv
 import pandas as pd
 
-#df = pd.read_csv('PNR Contact details 20240501-1.csv', sep=';')
-#email_list = df['Contact Decoded Value'].unique()[0:100]
-#email_list = df['Contact Decoded Value'].unique()
-
-
 # Dummy email list, replace this with reading email addresses from as CSV as follows:
 #df = pd.read_csv('input.csv', sep=';')
 #email_list = df['Email_address'].unique()
