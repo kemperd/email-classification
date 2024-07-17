@@ -3,6 +3,8 @@ Email address classification using LLM
 
 Tested with Python 3.11.9
 
+Take the following steps to run the code:
+
 1. git checkout https://github.com/kemperd/email-classification
 2. conda create -n email-classification python=3.11.9
 3. conda activate email-classification
