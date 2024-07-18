@@ -1,5 +1,7 @@
 # email-classification
-Email address classification using LLM
+Email address classification using LLM.
+
+Please read the corresponding blog post with background at https://analytix.nl/post/running-a-self-hosted-llm-for-email-classification/
 
 Tested with Python 3.11.9
 
