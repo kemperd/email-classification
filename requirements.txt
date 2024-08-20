@@ -1,4 +1,4 @@
-litserve==0.1.2
+litserve>=0.1.5
 torch==2.3.1
 transformers==4.42.4
 bitsandbytes==0.43.1
